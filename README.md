@@ -5,4 +5,6 @@ if you want to create these files yourself
 - open the .ttf file inside of HxD
 - then File -> Export -> C
 ___________________________________
-will work for images the same way \n there is no cpp option because C files will work the same inside of cpp 
+will work for images the same way 
+___________________________________
+there is no cpp option because C files will work the same inside of cpp 

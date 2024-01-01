@@ -1,4 +1,4 @@
-if you want to creat these files yourself 
+if you want to create these files yourself 
 
 - download [HxD](https://mh-nexus.de/en/hxd/).
 - download your prefered .ttf file 
